@@ -56,7 +56,13 @@
     "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
   },{
     "id": "10",
-    "title": "Sample Song 9",
+    "title": "Sample Song 10,
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  }, {
+    "id": "10",
+    "title": "Sa 11,
     "artist": "Soloist Name",
     "genre": "Praise",
     "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
