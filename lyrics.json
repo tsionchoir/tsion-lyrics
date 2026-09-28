@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Song One",
+    "artist": "Tsion Choir",
+    "genre": "Worship",
+    "lyrics": "እግዚአብሄር ለቃሉ የታመነ ነው \nVerse 1 line two\n\nChorus line one\nChorus line two"
+  },
+  {
+    "id": "2",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  },{
+    "id": "3",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  },{
+    "id": "4",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  },{
+    "id": "5",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  }, {
+    "id": "6",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  }, {
+    "id": "7",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  },{
+    "id": "8",
+    "title": "Sample Song Two",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  },{
+    "id": "9",
+    "title": "Sample Song 9",
+    "artist": "Soloist Name",
+    "genre": "Praise",
+    "lyrics": "Replace these with your real lyrics.\nBlank line = new stanza."
+  }
+]
